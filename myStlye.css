@@ -1,0 +1,37 @@
+.well{
+  background: #fff;
+  padding: 5px;
+  box-shadow: 1px 5px #EEECEC;
+  height: auto;
+}
+.well:hover {
+  border-color: #75dcff;
+}
+.col-sm-8:nth-child(even){
+  background-color:#f2f2f2;;
+}
+ 
+.col-sm-8{
+width: 80%;
+}
+.col-sm-4{
+  width: 20%;
+  text-align: center;
+}
+.right {
+  border-right: 1px solid #ccc;
+  padding: 20px; 
+}
+
+.linetime{
+  font-weight: italic;
+}
+.imgprofile {
+  border-radius: 50%;
+  width:80px;
+}
+.display{
+  font-size:20px;
+  color:rgb(234, 10, 10);
+}
+ 
